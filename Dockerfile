@@ -1,5 +1,4 @@
-FROM alpine:3.6
-MAINTAINER jsvazic@gmail.com
+FROM alpine:3.9
 
 COPY . /app/
 
